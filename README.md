@@ -26,6 +26,7 @@
 
 ## Ferramentas Desenvolvovimento
 * Visual Studio Code
+* Node.js
 
 ## Referência de Estudo (conforme comentado na entrevista não tenho experiência em front)
 `https://www.bezkoder.com/vue-3-crud/`
